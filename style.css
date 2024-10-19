@@ -1,0 +1,30 @@
+h1 {
+    color: azure;
+    text-align: center;
+    font-size:150px ;
+    box-shadow: 10px 10px 5px azure;
+
+}
+body {
+    background-color: black;
+}
+h2 {
+    color: azure;
+    
+}
+img {
+    margin-left: 250px;
+}
+h3 {
+    color: azure;
+}
+
+.box1 {
+    display: flex;
+}
+ol {
+    color: azure;
+}
+.box2 {
+    display: flex;
+}
